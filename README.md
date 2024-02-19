@@ -2,7 +2,7 @@
 
 In this project, modeling outcomes following Kelso et al. ( ) will be presented to exemplify how antagonistic coupling affects rhythmical coupled behavior. This specific way of modeling follows the formula presented below:
 
-$$x ̈+(αx^2+βx ̇^2-γ) x ̇+ω^2 x=(A+B(x+μ_1 y)^2)(x ̇-μ_1 y ̇)$$  [1]
+$$x ̈+(αx^2+βx ̇^2-γ) x ̇+ω^2 x=(A+B(x+μ_1 y)^2)(x ̇-μ_1 y ̇) [1]$$
 
 $$y ̈+(αy^2+βy ̇^2-γ) y ̇+ω^2 y=(A+B(y+μ_2 x)^2)(y ̇-μ_2 x ̇)$$                      [2]
 
